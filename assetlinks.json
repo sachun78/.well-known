@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "뷰티망고",
+    "package_name": "com.beauty.mango",
+    "sha256_cert_fingerprints":
+      ["B1:A5:71:89:54:55:21:C6:3D:05:C6:F4:E1:29:48:1E:DD:13:47:EA:44:C6:F4:80:34:AA:58:22:84:C4:A6:2F"]
+  }
+}]
